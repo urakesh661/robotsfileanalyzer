@@ -3,7 +3,6 @@
 start_time=$(date +%s)
 
 rm -rf robotfile_path.txt
-rm -rf robots.txt
 
 echo -n "Please provide a domain: "
 read domain
